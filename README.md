@@ -1,4 +1,6 @@
-FlatColorTheme
-==============
+Window Flat Color Theme
+=======================
 
-Simple, Calm, Lightweight, Distraction Free Windows8 Solid Color Background and Theme
+Simple, calm, lightweight, distraction free Windows-8 solid color backgrounds and theme
+
+color inspiration from http://flatuicolors.com/
